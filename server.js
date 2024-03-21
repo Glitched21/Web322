@@ -1,3 +1,28 @@
+/********************************************************************************
+
+* WEB322 – Assignment 04
+
+*
+
+* I declare that this assignment is my own work in accordance with Seneca's
+
+* Academic Integrity Policy:
+
+*
+
+* https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
+
+*
+
+* Name:Ritish Sharma Student ID: 146407226 Date: 21 March 2024
+
+*
+
+* Published URL:https://github.com/Glitched21/Web322
+
+*
+
+********************************************************************************/
 const express = require('express');
 const legoData = require('./modules/legoSets');
 

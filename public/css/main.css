@@ -370,7 +370,29 @@ Prevent resizing textareas horizontally by default.
 textarea {
   resize: vertical;
 }
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
 
+.card {
+  height: 100%;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-title {
+  flex-grow: 1;
+}
+
+.card-actions {
+  margin-top: auto;
+}
 /*
 1. Reset the default placeholder opacity in Firefox. (https://github.com/tailwindlabs/tailwindcss/issues/3300)
 2. Set the default placeholder color to the user's configured gray 400 color.
