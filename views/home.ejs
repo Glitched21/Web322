@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home- Lego Collection</title>
+  <link rel="stylesheet" href="/css/main.css" />
+
+</head>
+
+<body>    
+  <%- include('partials/navbar', { page: '/home' }) %>
+
+  <div class="container mx-auto">
+
+
+    <div class="hero bg-base-200 rounded-lg p-6">
+      <div class="hero-content text-center ">
+        <div class="max-w-md">
+          <h1 class="text-5xl font-bold">Welcome</h1>
+
+          <p class="py-6">Set free your inner constructor and embark on an enthralling adventure through the vibrant world of Lego.</p>
+      
+          <a href="/lego/sets" class="btn btn-primary">Get Started Now</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+
+    <div class="card">
+        <img src="https://cdn.rebrickable.com/media/sets/05-1.jpg"alt="Hinges">
+        <h2 class="font-bold text-lg">Hinges</h2>
+        <p class="text-gray-700">This set is similar to 701-1, 1122-1, and 22-2.</p>
+        <a href="/lego/sets/03093-1" class="btn">View Details</a>
+    </div>
+   
+    <div class="card">
+
+        <img src="https://cdn.rebrickable.com/media/sets/052-1.jpg" alt="Assorted Basic Bricks - White">
+
+        <h2 class="font-bold text-lg">Assorted Basic Bricks - White</h2>
+
+        <p class="text-gray-700">This set was released in America (USA/CAN) by Samsonite in 1966. It was never released in Europe.</p>
+
+        <a href="/lego/sets/032-1" class="btn">View Details</a>
+    </div>
+ 
+    <div class="card">
+        <img src="https://cdn.rebrickable.com/media/sets/045-1.jpg" alt="Farm">
+        <h2 class="font-bold text-lg">Farm</h2> 
+        <p class="text-gray-700">This is the European, Canadian and Australian version of set 2650-1.</p>
+        <a href="/lego/sets/042-1" class="btn">View Details</a>
+    </div>
+    
+
+</div>
+</body>
+
+</html>

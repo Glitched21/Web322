@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>404 Not Found - Lego Collection</title>
+</head>
+<body>
+    <%- include('partials/navbar', { page: '/404' }) %>
+
+    <div class="container mx-auto mt-4">
+        <div class="hero bg-base-200 min-h-screen">
+            <div class="hero-content text-center">
+                <div class="max-w-lg">
+                    <h1 class="text-6xl font-bold mb-8">Sorry!</h1>
+                    <p class="mb-5 text-xl"><%= message %></p>
+                    <a href="/" class="btn btn-primary">Return Home</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

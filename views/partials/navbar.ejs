@@ -1,0 +1,14 @@
+<div class="navbar bg-brown-900">
+    <div class="flex-1 ml-4">
+        <a href="/" class="text-white hover:text-gray-400 text-xl">Lego Collection</a>
+    </div>
+    <div class="navbar-center hidden sm:flex">
+        <ul class="menu menu-horizontal px-1">
+            <li><a class="text-white hover:text-gray-400 <%= (page === '/lego/sets' ? 'active' : '') %>" href="/lego/sets">View Collection</a></li>
+            <li><a class="text-white hover:text-gray-400 <%= (page === '/about' ? 'active' : '') %>" href="/about">About</a></li>
+        </ul>
+    </div>
+    <div class="navbar-right hidden sm:flex">
+        
+    </div>
+</div>
