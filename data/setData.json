@@ -239,4 +239,485 @@
         "num_parts": "77",
         "img_url": "https://cdn.rebrickable.com/media/sets/03093-1.jpg"
     }
-]
+    ,
+        {
+            "set_num": "952018-1",
+            "name": "Harl Hubbs with Tamping Rammer",
+            "year": "2020",
+            "theme_id": "56",
+            "num_parts": "20",
+            "img_url": "https://cdn.rebrickable.com/media/sets/952018-1.jpg"
+        },
+        {
+            "set_num": "952102-1",
+            "name": "Builder with Epic Digger",
+            "year": "2021",
+            "theme_id": "56",
+            "num_parts": "21",
+            "img_url": "https://cdn.rebrickable.com/media/sets/952102-1.jpg"
+        },
+        {
+            "set_num": "952111-1",
+            "name": "Builder and Traffic Light",
+            "year": "2021",
+            "theme_id": "56",
+            "num_parts": "13",
+            "img_url": "https://cdn.rebrickable.com/media/sets/952111-1.jpg"
+        },
+        {
+            "set_num": "952202-1",
+            "name": "Pete's Precise's Drill",
+            "year": "2022",
+            "theme_id": "56",
+            "num_parts": "26",
+            "img_url": "https://cdn.rebrickable.com/media/sets/952202-1.jpg"
+        },
+        {
+            "set_num": "952204-1",
+            "name": "Phil Corky's Dump Truck",
+            "year": "2022",
+            "theme_id": "56",
+            "num_parts": "26",
+            "img_url": "https://cdn.rebrickable.com/media/sets/952204-1.jpg"
+        },
+        {
+            "set_num": "952210-1",
+            "name": "Robbie Rolla's Steamroller",
+            "year": "2022",
+            "theme_id": "56",
+            "num_parts": "29",
+            "img_url": "https://cdn.rebrickable.com/media/sets/952210-1.jpg"
+        },
+        {
+            "set_num": "952305-1",
+            "name": "Building Team with Tools",
+            "year": "2023",
+            "theme_id": "56",
+            "num_parts": "19",
+            "img_url": "https://cdn.rebrickable.com/media/sets/952305-1.jpg"
+        },
+        {
+            "set_num": "30590-1",
+            "name": "Farm Garden & Scarecrow",
+            "year": "2022",
+            "theme_id": "57",
+            "num_parts": "34",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30590-1.jpg"
+        },
+        {
+            "set_num": "Jan-99",
+            "name": "Farmer & Tractor",
+            "year": "2009",
+            "theme_id": "57",
+            "num_parts": "28",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4899-1.jpg"
+        },
+        {
+            "set_num": "60181-1",
+            "name": "Forest Tractor",
+            "year": "2018",
+            "theme_id": "57",
+            "num_parts": "174",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60181-1.jpg"
+        },
+        {
+            "set_num": "60223-1",
+            "name": "Harvester Transport",
+            "year": "2019",
+            "theme_id": "57",
+            "num_parts": "358",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60223-1.jpg"
+        },
+        {
+            "set_num": "60287-1",
+            "name": "Tractor",
+            "year": "2021",
+            "theme_id": "57",
+            "num_parts": "148",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60287-1.jpg"
+        },
+        {
+            "set_num": "60344-1",
+            "name": "Chicken Henhouse",
+            "year": "2022",
+            "theme_id": "57",
+            "num_parts": "101",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60344-1.jpg"
+        },
+        {
+            "set_num": "60345-1",
+            "name": "Farmers Market Van",
+            "year": "2022",
+            "theme_id": "57",
+            "num_parts": "310",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60345-1.jpg"
+        },
+        {
+            "set_num": "60346-1",
+            "name": "Barn & Farm Animals",
+            "year": "2022",
+            "theme_id": "57",
+            "num_parts": "230",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60346-1.jpg"
+        },
+        {
+            "set_num": "60390-1",
+            "name": "Park Tractor",
+            "year": "2023",
+            "theme_id": "57",
+            "num_parts": "86",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60390-1.jpg"
+        },
+        {
+            "set_num": "66358-1",
+            "name": "City Super Pack 3 in 1",
+            "year": "2010",
+            "theme_id": "57",
+            "num_parts": "0",
+            "img_url": "https://cdn.rebrickable.com/media/sets/66358-1.jpg"
+        },
+        {
+            "set_num": "66772-1",
+            "name": "Big Wheel Gift Set",
+            "year": "2023",
+            "theme_id": "57",
+            "num_parts": "0",
+            "img_url": "https://cdn.rebrickable.com/media/sets/66772-1.jpg"
+        },
+        {
+            "set_num": "Jan-66",
+            "name": "Farmer",
+            "year": "2010",
+            "theme_id": "57",
+            "num_parts": "16",
+            "img_url": "https://cdn.rebrickable.com/media/sets/7566-1.jpg"
+        },
+        {
+            "set_num": "Jan-34",
+            "name": "Tractor",
+            "year": "2009",
+            "theme_id": "57",
+            "num_parts": "78",
+            "img_url": "https://cdn.rebrickable.com/media/sets/7634-1.jpg"
+        },
+        {
+            "set_num": "Jan-35",
+            "name": "4WD with Horse Trailer",
+            "year": "2009",
+            "theme_id": "57",
+            "num_parts": "176",
+            "img_url": "https://cdn.rebrickable.com/media/sets/7635-1.jpg"
+        },
+        {
+            "set_num": "Jan-36",
+            "name": "Combine Harvester",
+            "year": "2009",
+            "theme_id": "57",
+            "num_parts": "365",
+            "img_url": "https://cdn.rebrickable.com/media/sets/7636-1.jpg"
+        },
+        {
+            "set_num": "Jan-37",
+            "name": "Farm",
+            "year": "2009",
+            "theme_id": "57",
+            "num_parts": "614",
+            "img_url": "https://cdn.rebrickable.com/media/sets/7637-1.jpg"
+        },
+        {
+            "set_num": "Jan-84",
+            "name": "Pig Farm & Tractor",
+            "year": "2010",
+            "theme_id": "57",
+            "num_parts": "256",
+            "img_url": "https://cdn.rebrickable.com/media/sets/7684-1.jpg"
+        },
+        {
+            "set_num": "951903-1",
+            "name": "Gardener with Lawn Mower",
+            "year": "2019",
+            "theme_id": "57",
+            "num_parts": "31",
+            "img_url": "https://cdn.rebrickable.com/media/sets/951903-1.jpg"
+        },
+        {
+            "set_num": "20002-1",
+            "name": "4x4 Fire Truck",
+            "year": "2008",
+            "theme_id": "58",
+            "num_parts": "56",
+            "img_url": "https://cdn.rebrickable.com/media/sets/20002-1.jpg"
+        },
+        {
+            "set_num": "30001-1",
+            "name": "Fireman's Car",
+            "year": "2009",
+            "theme_id": "58",
+            "num_parts": "39",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30001-1.jpg"
+        },
+        {
+            "set_num": "30010-1",
+            "name": "Fire Chief",
+            "year": "2010",
+            "theme_id": "58",
+            "num_parts": "31",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30010-1.jpg"
+        },
+        {
+            "set_num": "30019-1",
+            "name": "Fire Helicopter",
+            "year": "2012",
+            "theme_id": "58",
+            "num_parts": "37",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30019-1.jpg"
+        },
+        {
+            "set_num": "30220-1",
+            "name": "Fire Speedboat",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "40",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30220-1.jpg"
+        },
+        {
+            "set_num": "30221-1",
+            "name": "Fire Car",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "36",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30221-1.jpg"
+        },
+        {
+            "set_num": "30347-1",
+            "name": "Fire Car",
+            "year": "2016",
+            "theme_id": "58",
+            "num_parts": "53",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30347-1.jpg"
+        },
+        {
+            "set_num": "30361-1",
+            "name": "Fire ATV",
+            "year": "2019",
+            "theme_id": "58",
+            "num_parts": "39",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30361-1.jpg"
+        },
+        {
+            "set_num": "30368-1",
+            "name": "Fire Rescue Water Scooter",
+            "year": "2020",
+            "theme_id": "58",
+            "num_parts": "34",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30368-1.jpg"
+        },
+        {
+            "set_num": "30566-1",
+            "name": "Fire Helicopter",
+            "year": "2021",
+            "theme_id": "58",
+            "num_parts": "41",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30566-1.jpg"
+        },
+        {
+            "set_num": "30585-1",
+            "name": "Fire Patrol Vehicle",
+            "year": "2022",
+            "theme_id": "58",
+            "num_parts": "45",
+            "img_url": "https://cdn.rebrickable.com/media/sets/30585-1.jpg"
+        },
+        {
+            "set_num": "Jan-08",
+            "name": "4x4 Fire Truck",
+            "year": "2012",
+            "theme_id": "58",
+            "num_parts": "243",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4208-1.jpg"
+        },
+        {
+            "set_num": "Jan-09",
+            "name": "Fire Plane",
+            "year": "2012",
+            "theme_id": "58",
+            "num_parts": "522",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4209-1.jpg"
+        },
+        {
+            "set_num": "Jan-27",
+            "name": "Fire ATV",
+            "year": "2012",
+            "theme_id": "58",
+            "num_parts": "50",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4427-1.jpg"
+        },
+        {
+            "set_num": "Jan-30",
+            "name": "Mobile Fire Command Center",
+            "year": "2012",
+            "theme_id": "58",
+            "num_parts": "522",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4430-1.jpg"
+        },
+        {
+            "set_num": "Jan-00",
+            "name": "Fire Helicopter",
+            "year": "2008",
+            "theme_id": "58",
+            "num_parts": "34",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4900-1.jpg"
+        },
+        {
+            "set_num": "Jan-14",
+            "name": "Fire Chief's Car",
+            "year": "2005",
+            "theme_id": "58",
+            "num_parts": "31",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4914-1.jpg"
+        },
+        {
+            "set_num": "Jan-38",
+            "name": "Fireman's Car",
+            "year": "2007",
+            "theme_id": "58",
+            "num_parts": "28",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4938-1.jpg"
+        },
+        {
+            "set_num": "Jan-92",
+            "name": "Fire Boat",
+            "year": "2007",
+            "theme_id": "58",
+            "num_parts": "27",
+            "img_url": "https://cdn.rebrickable.com/media/sets/4992-1.jpg"
+        },
+        {
+            "set_num": "5003096-1",
+            "name": "Fire Collection",
+            "year": "2014",
+            "theme_id": "58",
+            "num_parts": "0",
+            "img_url": "https://cdn.rebrickable.com/media/sets/5003096-1.jpg"
+        },
+        {
+            "set_num": "Jan-32",
+            "name": "Fire Car",
+            "year": "2005",
+            "theme_id": "58",
+            "num_parts": "32",
+            "img_url": "https://cdn.rebrickable.com/media/sets/5532-1.jpg"
+        },
+        {
+            "set_num": "Jan-13",
+            "name": "Firefighter",
+            "year": "2008",
+            "theme_id": "58",
+            "num_parts": "25",
+            "img_url": "https://cdn.rebrickable.com/media/sets/5613-1.jpg"
+        },
+        {
+            "set_num": "60000-1",
+            "name": "Fire Motorcycle",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "40",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60000-1.jpg"
+        },
+        {
+            "set_num": "60001-1",
+            "name": "Fire Rescue",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "80",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60001-1.jpg"
+        },
+        {
+            "set_num": "60002-1",
+            "name": "Fire Truck",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "209",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60002-1.jpg"
+        },
+        {
+            "set_num": "60003-1",
+            "name": "Fire Emergency",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "301",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60003-1.jpg"
+        },
+        {
+            "set_num": "60004-1",
+            "name": "Fire Station",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "753",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60004-1.jpg"
+        },
+        {
+            "set_num": "60005-1",
+            "name": "Fire Boat",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "223",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60005-1.jpg"
+        },
+        {
+            "set_num": "60010-1",
+            "name": "Fire Helicopter",
+            "year": "2013",
+            "theme_id": "58",
+            "num_parts": "225",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60010-1.jpg"
+        },
+        {
+            "set_num": "60088-1",
+            "name": "Fire Starter Set",
+            "year": "2015",
+            "theme_id": "58",
+            "num_parts": "92",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60088-1.jpg"
+        },
+        {
+            "set_num": "60105-1",
+            "name": "Fire ATV",
+            "year": "2016",
+            "theme_id": "58",
+            "num_parts": "64",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60105-1.jpg"
+        },
+        {
+            "set_num": "60106-1",
+            "name": "Fire Starter Set",
+            "year": "2016",
+            "theme_id": "58",
+            "num_parts": "90",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60106-1.jpg"
+        },
+        {
+            "set_num": "60107-1",
+            "name": "Fire Ladder Truck",
+            "year": "2016",
+            "theme_id": "58",
+            "num_parts": "214",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60107-1.jpg"
+        },
+        {
+            "set_num": "60108-1",
+            "name": "Fire Response Unit",
+            "year": "2016",
+            "theme_id": "58",
+            "num_parts": "257",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60108-1.jpg"
+        },
+        {
+            "set_num": "60109-1",
+            "name": "Fire Boat",
+            "year": "2016",
+            "theme_id": "58",
+            "num_parts": "415",
+            "img_url": "https://cdn.rebrickable.com/media/sets/60109-1.jpg"
+        }
+    ]
