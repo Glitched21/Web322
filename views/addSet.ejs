@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add Sets</title>
+  <link rel="stylesheet" href="/css/main.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url('https://th.bing.com/th/id/OIP.kmSZgoy4utDa_duOxY_uUAAAAA?rs=1&pid=ImgDetMain'); /* Replace 'lego_background.jpg' with your Lego image path */
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      background-color: rgba(112, 108, 108, 0.8); /* Semi-transparent white background */
+      padding: 20px;
+      border-radius: 8px;
+     /* box-shadow: 0 50px 20px rgba(99, 98, 98, 0.2); *//* Box shadow */
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+      color: #333;
+      text-align: center;
+    }
+
+    form {
+      display: grid;
+      gap: 10px;
+    }
+
+    label {
+      font-weight: bold;
+      color: #333;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    input[type="url"],
+    select,
+    input[type="date"] {
+      width: 100%;
+      padding: 10px;
+      border-radius: 4px;
+      border: 1px solid #000000;
+      box-sizing: border-box;
+    }
+
+    button[type="submit"] {
+      background-color: #021e31; /* Blue submit button */
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      padding: 12px 24px;
+      cursor: pointer;
+      font-size: 16px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5); /* Box shadow */
+      transition: background-color 0.3s ease; /* Smooth transition */
+    }
+
+    button[type="submit"]:hover {
+      background-color: #2980b9; /* Darker blue on hover */
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Render Navbar Partial -->
+  <% include('partials/navbar', { page: '/lego/addSet' }) %>
+
+  <!-- Form to Add a Set -->
+  <div class="container">
+    <h1 style="color: #000000;">Add Set</h1>
+    <form action="/lego/addSet" method="POST">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="year">Year:</label>
+      <!-- Using input type date for selecting years -->
+      <input type="year" id="year" name="year" min="1950" max="2024" required>
+
+      <label for="num_parts">Number of Parts:</label>
+      <input type="number" id="num_parts" name="num_parts" required>
+
+      <label for="img_url">Image URL:</label>
+      <input type="url" id="img_url" name="img_url" required>
+
+      <label for="theme_id">Theme:</label>
+      <select id="theme_id" name="theme_id" required>
+        <% themes.forEach(theme => { %>
+        <option value="<%= theme.id %>"><%= theme.name %></option>
+        <% }) %>
+      </select>
+
+      <label for="set_num">Set Number:</label>
+      <input type="text" id="set_num" name="set_num" required>
+
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+
+  <!-- Include JavaScript or other scripts -->
+  <script src="/server.js"></script>
+</body>
+
+</html>
